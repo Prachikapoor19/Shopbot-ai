@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# Node modules (Frontend dependencies)
+node_modules/
+.next/
+build/
+dist/
+
+# OS specific files
+.DS_Store
+Thumbs.db
